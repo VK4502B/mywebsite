@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"category",
+				"category_name"
+			],
+			[
+				"sl",
+				"slugify"
+			],
+			[
+				"pub",
+				"pub_time"
+			],
+			[
+				"Category",
+				"CategoryListView"
+			],
+			[
+				"cate",
+				"category_name"
+			],
+			[
+				"list",
+				"ListView"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"art",
+				"article-list"
+			],
+			[
+				"i",
+				"interesting-list"
+			],
+			[
+				"ar",
+				"ArticleListView"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"Ar",
+				"ArchiveIndexView"
+			],
+			[
+				"Art",
+				"Article"
+			],
+			[
+				"on",
+				"on_delete"
+			],
+			[
+				"Ca",
+				"category"
+			],
+			[
+				"m",
+				"Model"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"news",
+				"news_views"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/adminko/12/.gitignore",
+			"settings":
+			{
+				"buffer_size": 5,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "news/models.py",
+			"settings":
+			{
+				"buffer_size": 1245,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python 3/Python3.sublime-build",
+	"command_palette":
+	{
+		"height": 92.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/adminko/12/mysite/news/models.py",
+		"/home/adminko/12/mysite/news/urls.py",
+		"/home/adminko/12/mysite/news/templates/news/article_list.html",
+		"/home/adminko/Стільниця/12/mysite/news/views.py",
+		"/home/adminko/Стільниця/12/mysite/news/templates/news/article_detail.html",
+		"/home/adminko/Стільниця/12/mysite/news/templates/news/category_list.html",
+		"/home/adminko/Стільниця/12/mysite/news/migrations/0012_auto_20170217_1243.py",
+		"/home/adminko/Стільниця/12/mysite/news/migrations/0011_auto_20170217_1242.py",
+		"/home/adminko/Стільниця/12/mysite/news/migrations/0011_auto_20170217_1241.py",
+		"/home/adminko/Стільниця/12/mysite/news/migrations/0011_auto_20170217_1237.py",
+		"/home/adminko/Стільниця/12/mysite/news/migrations/0011_auto_20170217_1230.py",
+		"/home/adminko/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/adminko/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/adminko/Стільниця/12/mysite/news/templates/news/category.html",
+		"/home/adminko/Стільниця/12/mysite/templates/base.html",
+		"/home/adminko/Стільниця/12/mysite/news/templates/news/year_archive.html",
+		"/home/adminko/Стільниця/12/mysite/news/templates/news/article_archive.html",
+		"/home/adminko/Стільниця/asdasd.py",
+		"/home/adminko/Стільниця/12/sitenews/sitenews/settings.py",
+		"/home/adminko/Стільниця/12/mysite/mysite/settings.py",
+		"/home/adminko/Стільниця/12/mysite/news/admin.py",
+		"/home/adminko/Стільниця/12/mysite/news/urls.py",
+		"/home/adminko/Стільниця/12/mysite/templates/news/base.html",
+		"/home/adminko/Стільниця/12/mysite/news/models.py",
+		"/home/adminko/Стільниця/12/mysite/news/templates/news/article_list.html",
+		"/home/adminko/Стільниця/12/mysite/mysite/urls.py",
+		"/home/adminko/Стільниця/12/mysite/news/templates/news/news_list.html",
+		"/home/adminko/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/adminko/Стільниця/12/mysite/news/tests.py",
+		"/home/adminko/Стільниця/12/mysite/urls.py",
+		"/home/adminko/Стільниця/12/mysite/manage.py",
+		"/home/adminko/Стільниця/12/ssasdasda.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/adminko/12/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "news/models.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.437219730942,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 232.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
